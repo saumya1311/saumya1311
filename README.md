@@ -1,12 +1,6 @@
-- 👋 Hi, I’m saumya
-- 👀 I’m interested in Web Development/ AI/ ML/ Software Dvelopment
-- 🌱 I’m currently learning MERN Stack 
-- 💞️ I’m looking to collaborate on web development projects
-- 📫 How to reach me : can visit my linkedin or you can mail me
+- 👋 Hi, I’m Saumya, a B.Tech. 2nd yr grad, exploring the world of codes, byte by byte.
+- 👀 I’m interested in Computer, Coding and anything tech related.
+- 🌱 I’m currently learning MERN stack with full enthusiasm
+- 📫 You can recah me through my LinkedIn or can Email me too.
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: my life
-
-<!---
-saumya1311/saumya1311 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- ⚡ Fun fact: Nothing is funny about the drafts I wrote. :)
