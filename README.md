@@ -1,6 +1,6 @@
 # *Hi 👋🏻, I'm Saumya. 🦋*
 
-### 💫 About Me: <br><br> 🚀 AI & Software Developer  <br>💡 Building projects at the intersection of AI and real-world problems  <br>👀 Enthusiastic about Project Management and Product Management.<br>🧠 Exploring Machine Learning, Generative AI, and learning Agile frameworks, Jira, Product Roadmapping, and User-Centric Product Design.<br>⚡ Fun fact: I enjoy both, writing the code and managing the chaos that builds the product. <br>
+### 💫 About Me: <br><br> 🚀 AI & Software Developer  <br>💡 Building projects at the intersection of AI and real-world problems  <br>👀 Enthusiastic about Project Management and Product Management.<br>🧠 Exploring Machine Learning, Generative AI, while learning Agile frameworks, Jira, Product Roadmapping, and User-Centric Product Design.<br>💬 Ask me about ML, GenAI, or Why my code works only after adding one random print statement.<br>⚡ Fun fact: I enjoy both, writing the code and managing the chaos that builds the product. <br>
 
 ![](https://komarev.com/ghpvc/?username=saumya1311&base=2800)<br><br>
 # 🌐 Socials:
