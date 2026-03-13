@@ -27,7 +27,7 @@
 </tr>
 <tr>
 <td colspan="2" align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saumya1311&theme=tokyo-night&hide_border=true&area=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saumya1311&theme=tokyo-night&hide_border=false&area=true"/>
 </td>
 </tr>
 </table><br>
