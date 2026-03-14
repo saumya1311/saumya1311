@@ -2,7 +2,7 @@
 
 ### 💫 About Me: <br><br> 🚀 AI & Software Developer  <br>💡 Building projects at the intersection of AI and real-world problems  <br>👀 Enthusiastic about Project Management and Product Management.<br>🧠 Exploring Machine Learning, Generative AI, while learning Agile frameworks, Jira, Product Roadmapping, and User-Centric Product Design.<br>💬 Ask me about ML, GenAI, or Why my code works only after adding one random print statement.<br>⚡ Fun fact: I enjoy both, writing the code and managing the chaos that builds the product. <br>
 
-![](https://komarev.com/ghpvc/?username=saumya1311&base=2800)<br><br>
+![](https://komarev.com/ghpvc/?username=saumya1311&base=2200)<br><br>
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saumya-thakur-a3a9b125a) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/saumya_aa) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thakursaumya0313@gmail.com) <br><br>
 
